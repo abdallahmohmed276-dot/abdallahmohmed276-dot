@@ -1,0 +1,20 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#090C10" />
+      <stop offset="60%" stop-color="#0D1B2A" />
+      <stop offset="100%" stop-color="#16325C" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" rx="10" fill="url(#cardGrad2)" stroke="#1E3A8A" stroke-width="1.5" />
+  <rect x="0" y="0" width="6" height="120" rx="3" fill="#2563EB" />
+  <g stroke="#93C5FD" stroke-width="1.5" opacity="0.2" fill="none">
+    <path d="M 1010 75 L 1040 75 L 1040 45 L 1075 45 L 1075 75 L 1110 75 L 1110 45 L 1145 45" />
+  </g>
+  <text x="40" y="54" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="700">
+    Mechatronics & Industrial Control
+  </text>
+  <text x="40" y="84" fill="#93C5FD" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="500">
+    Delta PLC (ISPSoft & DOPSoft)  •  Arduino  •  Automotive Diagnostics
+  </text>
+</svg>
