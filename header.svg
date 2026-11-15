@@ -1,0 +1,52 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090C10" />
+      <stop offset="55%" stop-color="#0D1B2A" />
+      <stop offset="100%" stop-color="#16325C" />
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1B2A" stop-opacity="0" />
+      <stop offset="50%" stop-color="#3B82F6" stop-opacity="1" />
+      <stop offset="100%" stop-color="#0D1B2A" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Main Background -->
+  <rect width="1200" height="260" rx="14" fill="url(#bgGrad)" stroke="#1E3A8A" stroke-width="1.5" />
+
+  <!-- Subtle Tech Circuit Accents (Left) -->
+  <g stroke="#3B82F6" stroke-width="1.5" opacity="0.18" fill="none">
+    <path d="M 0 65 L 90 65 L 120 95 L 190 95" />
+    <path d="M 0 195 L 110 195 L 140 165 L 210 165" />
+    <circle cx="194" cy="95" r="4" fill="#3B82F6" />
+    <circle cx="214" cy="165" r="4" fill="#3B82F6" />
+  </g>
+
+  <!-- Subtle AI Node Accents (Right) -->
+  <g stroke="#93C5FD" stroke-width="1.5" opacity="0.18" fill="none">
+    <path d="M 1200 75 L 1100 75 L 1070 105 L 1000 105" />
+    <path d="M 1200 185 L 1090 185 L 1060 155 L 990 155" />
+    <line x1="1000" y1="105" x2="990" y2="155" />
+    <circle cx="996" cy="105" r="4" fill="#93C5FD" />
+    <circle cx="986" cy="155" r="4" fill="#93C5FD" />
+  </g>
+
+  <!-- Name -->
+  <text x="600" y="112" text-anchor="middle" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="1">
+    Abdallah Mohmed
+  </text>
+
+  <!-- Glowing Divider -->
+  <rect x="380" y="132" width="440" height="2" fill="url(#accentLine)" />
+
+  <!-- Main Title -->
+  <text x="600" y="168" text-anchor="middle" fill="#93C5FD" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="0.5">
+    Mechatronics Engineering  |  AI & Machine Learning
+  </text>
+
+  <!-- Sub-tags -->
+  <text x="600" y="202" text-anchor="middle" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="500">
+    Python  •  Computer Vision  •  Industrial Automation (PLC)  •  Embedded Systems
+  </text>
+</svg>
