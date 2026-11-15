@@ -1,37 +1,44 @@
-<img src="header.png" alt="Hi, I'm Abdallah – Mechatronics Engineering & AI Developer" width="100%">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090C10,50:0D1B2A,100:16325C&height=230&section=header&text=Abdallah%20Mohmed&fontSize=44&fontColor=F8FAFC&fontAlignY=40&desc=Mechatronics%20Engineering%20%7C%20AI%20%26%20Machine%20Learning&descSize=18&descColor=93C5FD&descAlignY=62&animation=fadeIn" alt="Abdallah Mohmed – Mechatronics Engineering & AI Developer | Dark Black and Dark Blue Theme Header" width="100%">
+</p>
 
 <h2>🧑‍💻 About Me</h2>
 <p>
-  4th-year <strong>Mechatronics Technology &amp; Engineering</strong> student at Helwan International Technological University, bridging <strong>Industrial Automation (PLC)</strong>, <strong>Embedded Systems</strong>, <strong>CAD/Simulation</strong>, and <strong>Applied Artificial Intelligence</strong>. Passionate about building intelligent, automated systems that connect hardware precision with machine learning.
+  4th-year <strong>Mechatronics Technology &amp; Engineering</strong> student at Helwan International Technological University, currently building my foundation in <strong>Python</strong>, <strong>Machine Learning</strong>, and <strong>Computer Vision</strong>. Combining hands-on experience in industrial automation, embedded systems, and automotive diagnostics with a growing focus on intelligent, data-driven software.
 </p>
 
 <p>
   <a href="https://www.linkedin.com/in/abdallah-mohhmed-957a41278" target="_blank" rel="noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" height="32">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-16325C?style=for-the-badge&logo=linkedin&logoColor=93C5FD" alt="Abdallah Mohmed LinkedIn Profile" height="32">
   </a>
   <a href="mailto:abdallahmohmed276@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Abdallah" height="32">
+    <img src="https://img.shields.io/badge/Email%20Me-0D1B2A?style=for-the-badge&logo=gmail&logoColor=93C5FD" alt="Email Abdallah Mohmed" height="32">
   </a>
 </p>
 
-<h2>🛠️ Core Stack &amp; Engineering Tools</h2>
+<h2>🛠️ Tech Stack &amp; Engineering Tools</h2>
+
+<p><strong>🐍 AI, Machine Learning &amp; Programming (Current Focus)</strong></p>
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/MATLAB%20%26%20Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
-  <img src="https://img.shields.io/badge/SOLIDWORKS-E11A2B?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SOLIDWORKS">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/Delta%20PLC%20(ISPSoft)-005BAC?style=for-the-badge" alt="Delta PLC">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Python-16325C?style=for-the-badge&logo=python&logoColor=93C5FD" alt="Python">
+  <img src="https://img.shields.io/badge/Machine%20Learning-0D1B2A?style=for-the-badge&logo=tensorflow&logoColor=93C5FD" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Computer%20Vision-16325C?style=for-the-badge&logo=opencv&logoColor=93C5FD" alt="Computer Vision">
+  <img src="https://img.shields.io/badge/Jupyter-0D1B2A?style=for-the-badge&logo=jupyter&logoColor=93C5FD" alt="Jupyter Notebooks">
+  <img src="https://img.shields.io/badge/MATLAB%20%26%20Simulink-16325C?style=for-the-badge&logo=mathworks&logoColor=93C5FD" alt="MATLAB & Simulink">
 </p>
 
-<h2>🤖 Computer Vision Object Classifier</h2>
-<p>Real-time image classification model trained to detect and categorize vehicles (cars, buses) and everyday objects using Google Teachable Machine and Python.</p>
-<a href="https://github.com/YOUR_USERNAME/YOUR_CV_REPO" target="_blank" rel="noreferrer nofollow">
-  <img src="cv-project-banner.png" alt="Computer Vision Object Classifier – Cars, Buses & Objects Detection" width="100%">
-</a>
+<p><strong>⚙️ Mechatronics, Control &amp; Design (Core Background)</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Delta%20PLC%20(ISPSoft)-0D1B2A?style=for-the-badge" alt="Delta PLC">
+  <img src="https://img.shields.io/badge/Arduino-16325C?style=for-the-badge&logo=arduino&logoColor=93C5FD" alt="Arduino">
+  <img src="https://img.shields.io/badge/SOLIDWORKS-0D1B2A?style=for-the-badge&logo=dassaultsystemes&logoColor=93C5FD" alt="SOLIDWORKS">
+  <img src="https://img.shields.io/badge/Proteus%20%26%20SimulIDE-16325C?style=for-the-badge" alt="Circuit Simulation">
+</p>
 
-<h2>🏭 Industrial Automation &amp; Automotive Control</h2>
-<p>Hands-on PLC programming (Delta SX2 via ISPSoft &amp; DOPSoft), motor control prototyping (Arduino &amp; L298N), and 198 hours of practical electrical/mechanical diagnostics and control systems training at Nissan El-Saba Autoservice.</p>
-<a href="https://github.com/YOUR_USERNAME/YOUR_AUTOMATION_REPO" target="_blank" rel="noreferrer nofollow">
-  <img src="automation-banner.png" alt="Industrial Automation, PLC & Automotive Systems" width="100%">
-</a>
+<h2>🤖 AI &amp; Computer Vision Learning Projects</h2>
+<p>Building practical foundations in supervised learning (regression &amp; classification) using Python and Jupyter, alongside a real-time image classification model trained to recognize vehicles (cars, buses) and everyday objects.</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:090C10,100:16325C&height=130&text=AI%20%26%20Computer%20Vision%20Projects&fontSize=26&fontColor=F8FAFC&fontAlignY=42&desc=Python%20%E2%80%A2%20Supervised%20ML%20%E2%80%A2%20Object%20Classification&descSize=15&descColor=93C5FD&descAlignY=68" alt="Abdallah Mohmed – AI & Computer Vision Learning Projects Dark Black and Blue Banner" width="100%">
+
+<h2>🏭 Mechatronics &amp; Industrial Control</h2>
+<p>Hands-on PLC programming (Delta SX2 via ISPSoft &amp; DOPSoft), DC motor control prototyping (Arduino &amp; L298N), and 198 hours of practical electrical/mechanical maintenance and control diagnostics at Nissan El-Saba Autoservice.</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:090C10,100:16325C&height=130&text=Mechatronics%20%26%20Industrial%20Control&fontSize=26&fontColor=F8FAFC&fontAlignY=42&desc=Delta%20PLC%20%E2%80%A2%20Arduino%20%E2%80%A2%20Automotive%20Diagnostics&descSize=15&descColor=93C5FD&descAlignY=68" alt="Abdallah Mohmed – Mechatronics & Industrial Automation Dark Black and Blue Banner" width="100%">
