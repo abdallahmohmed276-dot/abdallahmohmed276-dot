@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.svg" alt="Abdallah Mohmed – Mechatronics Engineering & AI Developer | Dark Black and Dark Blue Theme Header" width="100%">
+  <img src="header.jpg" alt="Abdallah Mohmed – Mechatronics Engineering & AI Developer" width="100%">
 </p>
 
 <h2>🧑‍💻 About Me</h2>
@@ -37,8 +37,8 @@
 
 <h2>🤖 AI &amp; Computer Vision Learning Projects</h2>
 <p>Building practical foundations in supervised learning (regression &amp; classification) using Python and Jupyter, alongside a real-time image classification model trained to recognize vehicles (cars, buses) and everyday objects.</p>
-<img src="ai-ml-banner.svg" alt="Abdallah Mohmed – AI & Computer Vision Learning Projects Dark Black and Blue Banner" width="100%">
+<img src="ai-ml-banner.jpg" alt="Abdallah Mohmed – AI & Computer Vision Learning Projects" width="100%">
 
 <h2>🏭 Mechatronics &amp; Industrial Control</h2>
 <p>Hands-on PLC programming (Delta SX2 via ISPSoft &amp; DOPSoft), DC motor control prototyping (Arduino &amp; L298N), and 198 hours of practical electrical/mechanical maintenance and control diagnostics at Nissan El-Saba Autoservice.</p>
-<img src="mechatronics-banner.svg" alt="Abdallah Mohmed – Mechatronics & Industrial Automation Dark Black and Blue Banner" width="100%">
+<img src="mechatronics-banner.jpg" alt="Abdallah Mohmed – Mechatronics & Industrial Control" width="100%">
