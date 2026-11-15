@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090C10,50:0D1B2A,100:16325C&height=230&section=header&text=Abdallah%20Mohmed&fontSize=44&fontColor=F8FAFC&fontAlignY=40&desc=Mechatronics%20Engineering%20%7C%20AI%20%26%20Machine%20Learning&descSize=18&descColor=93C5FD&descAlignY=62&animation=fadeIn" alt="Abdallah Mohmed – Mechatronics Engineering & AI Developer | Dark Black and Dark Blue Theme Header" width="100%">
+  <img src="header.svg" alt="Abdallah Mohmed – Mechatronics Engineering & AI Developer | Dark Black and Dark Blue Theme Header" width="100%">
 </p>
 
 <h2>🧑‍💻 About Me</h2>
@@ -37,8 +37,8 @@
 
 <h2>🤖 AI &amp; Computer Vision Learning Projects</h2>
 <p>Building practical foundations in supervised learning (regression &amp; classification) using Python and Jupyter, alongside a real-time image classification model trained to recognize vehicles (cars, buses) and everyday objects.</p>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:090C10,100:16325C&height=130&text=AI%20%26%20Computer%20Vision%20Projects&fontSize=26&fontColor=F8FAFC&fontAlignY=42&desc=Python%20%E2%80%A2%20Supervised%20ML%20%E2%80%A2%20Object%20Classification&descSize=15&descColor=93C5FD&descAlignY=68" alt="Abdallah Mohmed – AI & Computer Vision Learning Projects Dark Black and Blue Banner" width="100%">
+<img src="ai-ml-banner.svg" alt="Abdallah Mohmed – AI & Computer Vision Learning Projects Dark Black and Blue Banner" width="100%">
 
 <h2>🏭 Mechatronics &amp; Industrial Control</h2>
 <p>Hands-on PLC programming (Delta SX2 via ISPSoft &amp; DOPSoft), DC motor control prototyping (Arduino &amp; L298N), and 198 hours of practical electrical/mechanical maintenance and control diagnostics at Nissan El-Saba Autoservice.</p>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:090C10,100:16325C&height=130&text=Mechatronics%20%26%20Industrial%20Control&fontSize=26&fontColor=F8FAFC&fontAlignY=42&desc=Delta%20PLC%20%E2%80%A2%20Arduino%20%E2%80%A2%20Automotive%20Diagnostics&descSize=15&descColor=93C5FD&descAlignY=68" alt="Abdallah Mohmed – Mechatronics & Industrial Automation Dark Black and Blue Banner" width="100%">
+<img src="mechatronics-banner.svg" alt="Abdallah Mohmed – Mechatronics & Industrial Automation Dark Black and Blue Banner" width="100%">
